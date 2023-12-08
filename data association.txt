@@ -1,0 +1,25 @@
+data association
+ek model se doosre model ke data ko jod dena id ke through, natlab ki agar app ke pass ek user hai to wo post banayega hi, jab post banega to wo user ke dwaraa hi banega, to hum kya karte hai jab do aise data aapas mein clodesly related hote hai to hum dono ko jod dete hai, ki ek model ke bane huye data ki id ko doosre model ke data ko dedete hai aur is model ke data ki id pichle model ke data ko dedete hai.
+1st) do models banao 
+2nd) ab ek route banao jismein ek user ban jaaye
+
+Roadmap
+/route login and signup hoga
+/route profile par aapko profile and saved post
+/feed 
+/click image open save kar sakte hai
+/board/ :boardname poora board dikhega
+we used passports
+
+
+
+flash messages
+
+
+Our post
+posts 
+image
+caption
+
+we have to learn multer
+image upload caption upload
